@@ -1,0 +1,59 @@
+.col{
+    background-color: aqua;
+    border-radius: 15px;
+    margin:  60px 20px;
+    height: 85vh;
+}
+
+.p3 {
+    height: 40vh;
+    margin: 60px;
+}
+
+.p7{
+    background-color: aqua;
+    height: 85vh;
+    border-radius: 15px;
+    margin:  60px 20px;
+}
+
+.down{
+    height: 40%;
+    width: 100%;
+    background-color: blueviolet;
+    margin: 20px 0;
+    border-radius: 15px;
+}
+
+.up{
+    height: 60%;
+    width: 100%;
+    background-color: crimson;
+    margin: 20px 0;
+    border-radius: 15px;
+}
+
+.p8{
+    background-color: white;
+}
+
+.p9{
+    height: 30vh;
+    margin: 20px;
+}
+
+.p10{
+    height: 25vh;
+    margin: 40px;
+}
+
+.p11{
+    height: 20vh;
+    margin: 20px;
+
+}
+
+.p12{
+    height: 20vh;
+    margin: 20px;
+}
